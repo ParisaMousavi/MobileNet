@@ -17,7 +17,7 @@ The second version is more powerful for</p>
 <p>The convolutional layers are for feature detecting, therefore they are important for computer vision. If we consider a convolutional layer in a model, it has quite expensive computation.<br>
 In MobileNet the convolutional layer has been replaced with <strong>depthwise separable</strong> convolutions.</p>
 
-## MobileNet V2 usage
+## MobileNetV2 usage
 The mobile visual recognition is done more efficiently with classification. The MobileNetV2 is part of [TensorFlow-Slim Image Classification Library](https://github.com/tensorflow/models/blob/master/research/slim/README.md), it will be explained later. 
 
 ## MobileNetV2
@@ -26,6 +26,6 @@ The mobile visual recognition is done more efficiently with classification. The 
 <p><a href="http://ai.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html">1- MobileNetV2: The Next Generation of On-Device Computer Vision Networks</a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0NzgzMyw3MjY4NTY5OTAsNTY5NTY5ND
-c0XX0=
+eyJoaXN0b3J5IjpbLTUyMjA3Mzk0NSw3MjY4NTY5OTAsNTY5NT
+Y5NDc0XX0=
 -->
