@@ -18,11 +18,11 @@ The second version is more powerful for</p>
 In MobileNet the convolutional layer has been replaced with <strong>depthwise separable</strong> convolutions.</p>
 
 ## MobileNet V2 usage
-The mobile visual recognition is done more efficiently with classific 
+The mobile visual recognition is done more efficiently with classification. The MobileNetV2 is part of TensorFlow-Slim Image  
 
 <h2 id="references">References</h2>
 <p><a href="http://ai.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html">1- MobileNetV2: The Next Generation of On-Device Computer Vision Networks</a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzI3MTUzMCw1Njk1Njk0NzRdfQ==
+eyJoaXN0b3J5IjpbNjUyNDIwNDM3LDU2OTU2OTQ3NF19
 -->
