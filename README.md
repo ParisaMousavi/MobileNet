@@ -17,13 +17,11 @@ The second version is more powerful for</p>
 <p>The convolutional layers are for feature detecting, therefore they are important for computer vision. If we consider a convolutional layer in a model, it has quite expensive computation.<br>
 In MobileNet the convolutional layer has been replaced with <strong>depthwise separable</strong> convolutions.</p>
 
-test
-
 
 
 <h2 id="references">References</h2>
 <p><a href="http://ai.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html">1- MobileNetV2: The Next Generation of On-Device Computer Vision Networks</a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDM2Mzc4NF19
+eyJoaXN0b3J5IjpbNTY5NTY5NDc0XX0=
 -->
