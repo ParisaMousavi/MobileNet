@@ -20,7 +20,7 @@ In MobileNet the convolutional layer has been replaced with <strong>depthwise se
 ## MobileNetV2 usage
 The mobile visual recognition is done more efficiently with classification. The MobileNetV2 is part of [TensorFlow-Slim Image Classification Library](https://github.com/tensorflow/models/blob/master/research/slim/README.md), it will be explained later. 
 
-## MobileNetV2
+## MobileNetV2 architecture
 
 
 
@@ -28,6 +28,6 @@ The mobile visual recognition is done more efficiently with classification. The 
 <p><a href="http://ai.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html">1- MobileNetV2: The Next Generation of On-Device Computer Vision Networks</a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0ODA4MTM5LC01MjIwNzM5NDUsNzI2OD
-U2OTkwLDU2OTU2OTQ3NF19
+eyJoaXN0b3J5IjpbLTI5NDMzODAyNCw4NjQ4MDgxMzksLTUyMj
+A3Mzk0NSw3MjY4NTY5OTAsNTY5NTY5NDc0XX0=
 -->
