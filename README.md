@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="mobilenet-google">MobileNet (Google)</h1>
 <h2 id="overview">Overview</h2>
 <p>The MobileNet is a neural network architecture. It’s suitable for mobile devices.<br>
@@ -25,5 +20,5 @@ In MobileNet the convolutional layer has been replaced with <strong>depthwise se
 <p><a href="http://ai.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html">1- MobileNetV2: The Next Generation of On-Device Computer Vision Networks</a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjM5MjYxNF19
+eyJoaXN0b3J5IjpbMTAxMzE0ODk0MF19
 -->
