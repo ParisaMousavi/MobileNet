@@ -22,10 +22,12 @@ The mobile visual recognition is done more efficiently with classification. The 
 
 ## MobileNetV2
 
+
+
 <h2 id="references">References</h2>
 <p><a href="http://ai.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html">1- MobileNetV2: The Next Generation of On-Device Computer Vision Networks</a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjA3Mzk0NSw3MjY4NTY5OTAsNTY5NT
-Y5NDc0XX0=
+eyJoaXN0b3J5IjpbODY0ODA4MTM5LC01MjIwNzM5NDUsNzI2OD
+U2OTkwLDU2OTU2OTQ3NF19
 -->
