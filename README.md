@@ -24,3 +24,6 @@ In MobileNet the convolutional layer has been replaced with <strong>depthwise se
 <h2 id="references">References</h2>
 <p><a href="http://ai.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html">1- MobileNetV2: The Next Generation of On-Device Computer Vision Networks</a></p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg1MjM5MjYxNF19
+-->
