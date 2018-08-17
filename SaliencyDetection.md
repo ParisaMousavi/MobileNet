@@ -13,11 +13,11 @@ Algorithms in this class typically rely on video or frame-by-frame inputs. The m
 
 - **Objectness**
 
-
+Saliency detection algorithm that compute objectness generate a set of proposals, or more simply
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0MDM5NjMxLC0xNTU1NzE0MjA3LC0zND
-YyNDcyNzIsLTEwMjk0Nzc4NjhdfQ==
+eyJoaXN0b3J5IjpbMTE4MzkzMTUzNywtMTU1NTcxNDIwNywtMz
+Q2MjQ3MjcyLC0xMDI5NDc3ODY4XX0=
 -->
