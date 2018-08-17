@@ -9,13 +9,13 @@ Static saliency -> this class of saliency detection algorithms relies on image f
 
 - **Motion saliency**
 
-Algorithms in this class typically rely on video or frame-by-frame inputs. 
+Algorithms in this class typically rely on video or frame-by-frame inputs. The motion saliency algorithms process the frames, keeping track of objects that move. Objects that
 
 - **Objectness**
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU3MTQyMDcsLTM0NjI0NzI3MiwtMT
-AyOTQ3Nzg2OF19
+eyJoaXN0b3J5IjpbLTE2OTQwMjc2ODAsLTE1NTU3MTQyMDcsLT
+M0NjI0NzI3MiwtMTAyOTQ3Nzg2OF19
 -->
