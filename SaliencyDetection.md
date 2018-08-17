@@ -4,11 +4,15 @@
 OpenCV has three different saliency detection algorithms
 
 - **Static saliency**
-- **Motion saliency**
-- **Objectness**
 
 Static saliency -> this class of saliency detection algorithms relies on image features and statistics to localize the most interesting region of an image.
 
+- **Motion saliency**
+- **Objectness**
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjI0NzI3MiwtMTAyOTQ3Nzg2OF19
+eyJoaXN0b3J5IjpbLTE3OTk0MTY2MDAsLTM0NjI0NzI3MiwtMT
+AyOTQ3Nzg2OF19
 -->
