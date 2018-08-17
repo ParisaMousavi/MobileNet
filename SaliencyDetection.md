@@ -16,13 +16,12 @@ Algorithms in this class typically rely on video or frame-by-frame inputs. The m
 Saliency detection algorithm that compute objectness generate a set of proposals, or more simply bounding boxes of where it thinks an object may lie in an image.
 
 
-**Keep in mind that computing saliency is not object detection.**
-
+**Keep in mind that computing saliency is not object detection.** The underlying saliency
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTEwMDk3NDIsLTE3Njc4NTEyMjIsLT
+eyJoaXN0b3J5IjpbLTEwOTYzMzYwOTAsLTE3Njc4NTEyMjIsLT
 E1NTU3MTQyMDcsLTM0NjI0NzI3MiwtMTAyOTQ3Nzg2OF19
 -->
