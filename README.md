@@ -1,4 +1,8 @@
 <h1 id="mobilenet-google">MobileNet (Google)</h1>
+
+## OpenCV Saliency Detection with Python
+
+
 <h2 id="overview">Overview</h2>
 <p>The MobileNet is a neural network architecture. It’s suitable for mobile devices.<br>
 It can be used as the following:</p>
@@ -32,6 +36,7 @@ The MobileNetV2 is part of [TensorFlow-Slim Image Classification Library](https:
 <p><a href="http://ai.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html">1- MobileNetV2: The Next Generation of On-Device Computer Vision Networks</a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTE2MDU4OSw4NjQ4MDgxMzksLTUyMj
-A3Mzk0NSw3MjY4NTY5OTAsNTY5NTY5NDc0XX0=
+eyJoaXN0b3J5IjpbLTg5NzMzMzk1NSwxMzc1MTYwNTg5LDg2ND
+gwODEzOSwtNTIyMDczOTQ1LDcyNjg1Njk5MCw1Njk1Njk0NzRd
+fQ==
 -->
