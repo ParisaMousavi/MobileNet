@@ -7,6 +7,7 @@ OpenCV has three different saliency detection algorithms
 - **Motion saliency**
 - **Objectness**
 
+Static saliency -> this class of saliency detec
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTA5NDAzNV19
+eyJoaXN0b3J5IjpbLTEwMjk0Nzc4NjhdfQ==
 -->
