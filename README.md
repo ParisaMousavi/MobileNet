@@ -1,6 +1,6 @@
 <h1 id="mobilenet-google">MobileNet (Google)</h1>
 
-## [OpenCV Saliency Detection with Python]('https://github.com/ParisaMousavi/MobileNet/blob/master/SaliencyDetection.md')
+## [OpenCV Saliency Detection with Python](https://github.com/ParisaMousavi/MobileNet/blob/master/SaliencyDetection.md)
 
 
 <h2 id="overview">Overview</h2>
@@ -36,7 +36,7 @@ The MobileNetV2 is part of [TensorFlow-Slim Image Classification Library](https:
 <p><a href="http://ai.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html">1- MobileNetV2: The Next Generation of On-Device Computer Vision Networks</a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTEwNTYxMTAsMTM3NTE2MDU4OSw4Nj
+eyJoaXN0b3J5IjpbLTE3Njg3MTQ1NjgsMTM3NTE2MDU4OSw4Nj
 Q4MDgxMzksLTUyMjA3Mzk0NSw3MjY4NTY5OTAsNTY5NTY5NDc0
 XX0=
 -->
