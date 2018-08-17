@@ -1,4 +1,5 @@
-SaliencyDetection
+# OpenCV Saliency Detection with Python
+Open CV has three d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODYyNTczXX0=
+eyJoaXN0b3J5IjpbNTI5MzkwMTgwXX0=
 -->
