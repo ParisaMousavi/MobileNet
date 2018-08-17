@@ -1,5 +1,7 @@
 # OpenCV Saliency Detection with Python
-Open CV has three d
+
+OpenCV has three different saliency detection algorithns:
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5MzkwMTgwXX0=
+eyJoaXN0b3J5IjpbLTExMzU1MjY2NThdfQ==
 -->
