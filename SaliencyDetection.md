@@ -23,6 +23,7 @@ Saliency detection algorithm that compute objectness generate a set of proposals
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5MTcwMDgxLC0xNzY3ODUxMjIyLC0xNT
-U1NzE0MjA3LC0zNDYyNDcyNzIsLTEwMjk0Nzc4NjhdfQ==
+eyJoaXN0b3J5IjpbNTYxNDM2ODEsOTA5MTcwMDgxLC0xNzY3OD
+UxMjIyLC0xNTU1NzE0MjA3LC0zNDYyNDcyNzIsLTEwMjk0Nzc4
+NjhdfQ==
 -->
